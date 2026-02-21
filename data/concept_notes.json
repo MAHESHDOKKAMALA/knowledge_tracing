@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Fractions Basics",
+    "concept": "A fraction represents part of a whole. Use a common denominator before adding or subtracting fractions.",
+    "keywords": ["fraction", "numerator", "denominator", "common", "equivalent"]
+  },
+  {
+    "title": "Linear Equations",
+    "concept": "Solve linear equations by isolating the variable using inverse operations on both sides.",
+    "keywords": ["linear", "equation", "variable", "isolate", "inverse", "both sides"]
+  },
+  {
+    "title": "Probability Fundamentals",
+    "concept": "Probability is favorable outcomes divided by total outcomes, with values between 0 and 1.",
+    "keywords": ["probability", "outcomes", "favorable", "total", "sample space"]
+  },
+  {
+    "title": "Area and Units",
+    "concept": "Area measures surface size. For rectangles, area equals length multiplied by width, with squared units.",
+    "keywords": ["area", "length", "width", "square units", "rectangle"]
+  },
+  {
+    "title": "Ratio and Proportion",
+    "concept": "A ratio compares two quantities. Proportions are equations showing two ratios are equal.",
+    "keywords": ["ratio", "proportion", "compare", "quantities", "equal"]
+  }
+]
